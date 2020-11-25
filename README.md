@@ -1,2 +1,2 @@
 # group-website
-Leaning to use Jekyll
+Learning to use Jekyll
