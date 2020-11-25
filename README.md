@@ -21,3 +21,15 @@ are caused by two trailing spaces at the end of a line.
 - Software
 - Data
 * Library 
+
+[UiO](https://www.uio.no)
+
+~~strikethrough~~
+
+### heading
+
+1. A third level heading
+2. A numbered list
+3. Bonus: 
+
+![png](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
