@@ -22,8 +22,6 @@ are caused by two trailing spaces at the end of a line.
 - Data
 * Library 
 
-[UiO](https://www.uio.no)
-
 ~~strikethrough~~
 
 ### heading
