@@ -16,3 +16,5 @@ This is just a test, sorry!
 [about.md](about.md)
 
 for questions, [please contact us](mailto:{{site.email}})
+
+{{Time.parse}}
