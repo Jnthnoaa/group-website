@@ -1,3 +1,7 @@
+---
+layout: "page.html"
+---
+
 {% include banner.md %}
 
 # {{site.title}}
