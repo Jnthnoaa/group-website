@@ -20,3 +20,5 @@ This is just a test, sorry!
 for questions, [please contact us](mailto:{{site.email}})
 
 {{Time.parse}}
+
+{ % include links.md % }
