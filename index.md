@@ -1,3 +1,5 @@
+![Group Website banner](./images/site_banner.png)
+
 # {{site.title}}
 
 # My Index Page 
