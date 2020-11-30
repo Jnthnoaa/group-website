@@ -1,4 +1,4 @@
-[![Group Website with Jekyll](./images/site_banner.png)](https://github.com/Jnthnoaa/group-website)
+{% include banner.md %}
 
 # {{site.title}}
 
