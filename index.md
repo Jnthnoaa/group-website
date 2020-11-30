@@ -1,4 +1,4 @@
-![Group Website banner](./images/site_banner.png)
+[![Group Website with Jekyll](./images/site_banner.png)](https://github.com/Jnthnoaa/group-website)
 
 # {{site.title}}
 
